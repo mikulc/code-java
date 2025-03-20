@@ -1,4 +1,4 @@
-package com.exercise;
+package com.exercise.encapsulation;
 
 /**
  * 封装的练习

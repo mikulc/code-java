@@ -1,0 +1,18 @@
+package com.pudding.polymorphic.objpoly02;
+
+// 定义动物的父类
+public class Animal {
+    private String name;
+
+    public Animal(String name) {
+        this.name = name;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+}

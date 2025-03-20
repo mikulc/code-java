@@ -1,4 +1,4 @@
-package com.exercise;
+package com.exercise.encapsulation;
 
 public class TestAccount {
     public static void main(String[] args) {
